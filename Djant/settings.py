@@ -26,7 +26,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = '$mhgxp$cla+ii%n&%i)dss#_a429kw(wz$h-bukby_7h%q_sz+'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['demoxite.herokuapp.com','127.0.0.1']
 
